@@ -2,7 +2,7 @@
 
 This guide covers all eight charts produced by `Ecommerce_Funnel_Analysis_v2.ipynb`. Each section links to the PNG file and gives a short analysis: what the chart shows, the key numbers, what they mean, and what to be careful about.
 
-All numbers come from the executed notebook (five monthly files, October 2019 to February 2020, 20,692,840 events). The funnel uses the **strict, user-level** definition unless stated otherwise: a user counts at a stage only if they also reached the previous stage. See [README_NOTEBOOK.md](README_NOTEBOOK.md) for definitions and [README_DATASET.md](README_DATASET.md) for the data.
+All numbers come from the executed notebook (five monthly files, October 2019 to February 2020, 20,692,840 events). The funnel uses the **strict, user-level** definition unless stated otherwise: a user counts at a stage only if they also reached the previous stage. See [README NOTEBOOK](notebook/readme.md) for definitions and [README DATASET](dataset/readme.md) for the data.
 
 ## Index
 
