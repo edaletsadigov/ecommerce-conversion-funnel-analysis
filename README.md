@@ -175,4 +175,4 @@ The notes were probably produced from another dataset, file version or definitio
 2. Place them next to `Ecommerce_Funnel_Analysis_v2.ipynb`.
 3. `pip install pandas numpy matplotlib seaborn jupyter`, then run all cells.
 
-Full instructions, including a quick dry-run option, are in [docs/README_NOTEBOOK.md](docs/README_NOTEBOOK.md).
+Full instructions, including a quick dry-run option, are in [notebook readme](notebook/readme.md).
