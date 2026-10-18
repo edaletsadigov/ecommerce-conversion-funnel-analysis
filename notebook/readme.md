@@ -12,7 +12,7 @@ It turns raw event-level data (20,692,840 rows across five monthly CSV files) in
 - which heavily viewed products convert poorly
 - whether purchase prices contain outliers
 
-The executed notebook (with outputs) is included in this repository. The charts are exported to [`../charts`](../charts) and explained in [README_CHARTS.md](README_CHARTS.md). The data is described in [README_DATASET.md](README_DATASET.md).
+The executed notebook (with outputs) is included in this repository. The charts are exported to [`../charts`](../charts) and explained in [README_CHARTS.md](charts/readme.md). The data is described in [README DATASET](dataset/readme.md).
 
 ## Notebook structure
 
@@ -96,7 +96,7 @@ All constants are in one cell near the top.
 
 ## How to run
 
-1. Download the five monthly files from the Kaggle dataset *eCommerce Events History in Cosmetics Shop* (`2019-Oct.csv`, `2019-Nov.csv`, `2019-Dec.csv`, `2020-Jan.csv`, `2020-Feb.csv`). Link and column details are in [README_DATASET.md](README_DATASET.md).
+1. Download the five monthly files from the Kaggle dataset *eCommerce Events History in Cosmetics Shop* (`2019-Oct.csv`, `2019-Nov.csv`, `2019-Dec.csv`, `2020-Jan.csv`, `2020-Feb.csv`). Link and column details are in [README_DATASET.md](dataset/readme.md).
 2. Put the files in the same folder as the notebook, or change `DATA_DIR`.
 3. Install the requirements: `pip install pandas numpy matplotlib seaborn jupyter`.
 4. Open the notebook and run all cells from top to bottom.
