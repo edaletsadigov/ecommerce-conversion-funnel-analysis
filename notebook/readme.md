@@ -1,4 +1,4 @@
-# Notebook Guide: `Ecommerce_Funnel_Analysis_v2.ipynb`
+# Notebook Guide: `Ecommerce_Funnel_Analysis.ipynb`
 
 This document explains what the notebook does, which libraries it uses and why, the main design decisions, and how to run it.
 
