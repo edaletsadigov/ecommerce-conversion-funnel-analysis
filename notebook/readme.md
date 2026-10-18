@@ -12,7 +12,7 @@ It turns raw event-level data (20,692,840 rows across five monthly CSV files) in
 - which heavily viewed products convert poorly
 - whether purchase prices contain outliers
 
-The executed notebook (with outputs) is included in this repository. The charts are exported to [`../charts`](../charts) and explained in [README_CHARTS.md](charts/readme.md). The data is described in [README DATASET](dataset/readme.md).
+The executed notebook (with outputs) is included in this repository. The charts are exported to [`../charts`](../charts) and explained in [README CHARTS](charts/readme.md). The data is described in [README DATASET](dataset/readme.md).
 
 ## Notebook structure
 
